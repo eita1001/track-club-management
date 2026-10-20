@@ -56,3 +56,8 @@ SharePointを用いた資料の保管・継承方法を検討
 **7. 今後の展望**
 運用を継続しながら、部員・役員の利用状況や引継ぎ時の課題を把握し、情報構成やルールを改善していきます。
 
+## 詳細資料
+
+- [情報共有システムの設計](docs/system-design.md)
+- [ツール選定と意思決定](docs/decision-making.md)
+- [運用状況と今後の改善計画](docs/future-improvements.md)
